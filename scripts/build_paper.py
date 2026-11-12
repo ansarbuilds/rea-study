@@ -1,6 +1,6 @@
 """Build the report as a web page (and its figures) for the portfolio site.
 
-    python3 scripts/build_paper.py [--site ../kmsmohamedansar.github.io] [--no-pdf]
+    python3 scripts/build_paper.py [--site ../ansarbuilds.github.io] [--no-pdf]
 
 Turns paper/report.md into <site>/portfolio/public/p/rea-study/report.html (markdown by
 `npx -y marked@14.1.4`), copies the six figures beside it, and prints a PDF from the page with
@@ -53,7 +53,7 @@ img { display:block; max-width:100%; height:auto; margin:18px auto 6px; backgrou
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--site", default=str(ROOT.parent / "kmsmohamedansar.github.io"))
+    ap.add_argument("--site", default=str(ROOT.parent / "ansarbuilds.github.io"))
     ap.add_argument("--no-pdf", action="store_true")
     a = ap.parse_args()
     out = pathlib.Path(a.site) / "portfolio" / "public" / "p" / "rea-study"
