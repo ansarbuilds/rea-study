@@ -38,7 +38,7 @@ It reuses the habits from the Jev study: fix the rules before the one-shot run, 
 
 ### Programs where I know the answer
 
-A reverse-engineering result can only be marked if you already know the right answer, so every program is one I wrote or open-source code whose source is public. Nothing comes from my employer. There are 20: ten easy ones of about 30 lines (a licence-key check, a retry loop, a file-header parser, a rate limiter, a password hash, a checksum) and ten harder ones (a stack-machine interpreter, a stream cipher, a key-value store, a scrambled licence check, SHA-256, an expression evaluator, a JSON reader, a Go program, and two programs that decrypt something with a key that is not in the file). All were built with the same flags and stripped of names.
+A reverse-engineering result can only be marked if you already know the right answer, so every program is one I wrote or open-source code whose source is public. Nothing comes from a client or from private work. There are 20: ten easy ones of about 30 lines (a licence-key check, a retry loop, a file-header parser, a rate limiter, a password hash, a checksum) and ten harder ones (a stack-machine interpreter, a stream cipher, a key-value store, a scrambled licence check, SHA-256, an expression evaluator, a JSON reader, a Go program, and two programs that decrypt something with a key that is not in the file). All were built with the same flags and stripped of names.
 
 ### One question for everyone
 

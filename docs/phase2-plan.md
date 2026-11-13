@@ -11,7 +11,7 @@ Phase 1 results stay as they are and are reported as "easy tier".
 1. **We hold the answer.** Our own source, or open-source code with a permissive licence whose source is the key.
 2. **Hard to read as plain assembly.** More code, more functions, a loop that hides what it does, or a standard algorithm that only shows up as constants.
 3. **Some targets have an unknowable part**, so we can test honesty about uncertainty and not only accuracy.
-4. **Nothing from the owner's employer, no retail or grocery setting, no live commercial software.**
+4. **Nothing from a job or a client, no retail or grocery setting, no live commercial software.**
 
 ## Proposed targets (8 core, 1 optional)
 

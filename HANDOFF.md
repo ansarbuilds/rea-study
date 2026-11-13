@@ -58,7 +58,7 @@ Carried over from the owner's portfolio plan, same as `decision-models`:
 2. **Targets must be ones we hold the answer to.** Programs written for this
    study, open-source binaries where the source is public, or practice binaries
    with published solutions. No live commercial sites or apps. No retail,
-   grocery or CPG setting. Nothing from the owner's employer.
+   grocery or CPG setting. Nothing from a job or a client.
 3. **One model, both arms.** Only the tool changes between arms, never the
    model, the prompt or the machine. Otherwise the result measures nothing.
 4. **Answer keys and scoring rules written and frozen before the first scored

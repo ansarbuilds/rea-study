@@ -59,7 +59,7 @@ A few terms, explained once.
 
 ### 3.1 Programs where I know the answer
 
-A reverse-engineering result can only be marked if you already know the right answer. For a commercial app you do not, and analysing someone else's live product also raises terms-of-service questions. So every target here is a program I wrote, or open-source code whose source is public. Nothing comes from my employer.
+A reverse-engineering result can only be marked if you already know the right answer. For a commercial app you do not, and analysing someone else's live product also raises terms-of-service questions. So every target here is a program I wrote, or open-source code whose source is public. Nothing comes from a client or from private work.
 
 There are 20 programs, in two tiers [C1]:
 
